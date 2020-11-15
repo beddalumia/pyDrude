@@ -1,5 +1,5 @@
 # pyDrude
- Repository for the Master-Thesis project on OBCs Drude weight
+ Repository for the Master-Thesis project: *"Modern approach to the Drude weight: metallic and insulating systems within Open Boundary Conditions"*
  
 ---------------------------
  

@@ -2,5 +2,6 @@
 */.vscode
 *.pyc
 *.pdf
+*.svg
 *.sfit
 *.json

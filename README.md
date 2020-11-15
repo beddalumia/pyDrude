@@ -22,3 +22,14 @@ The model system is insulating or metallic according to where the Fermi level is
 (ii) Model insulator. In this case D is zero and we know from general arguments that the converged OBCs and PBCs conductivities must be identical. We found, however, that the convergence rates of the two calculations are quite different; as a consequence, the OBCs and PBCs forms of σ(ω) remain significantly different up to rather large sizes.
 
 (iii) Model metal. Based on PBCs simulations, we address a case study where D and the regular term in σ(ω) account for about the 75% and 25% of the f-sum rule, respectively. The corresponding OBCs Kubo formula displays two series of poles, qualitatively different both in their energy range and in their large-L behavior. The D value is easily extracted from on of the two, in the same way as in (i) above; the f-sum rule suffers from the same convergence issues as in (ii), causing even more severe deviations in the calculated large-size conductivities.
+
+# License
+MIT License
+
+Copyright (c) 2019 Gabriele Bellomia
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.

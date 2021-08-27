@@ -1,7 +1,7 @@
 ![pyDrudePoster](PicsToReadme/repository-readme-image.svg)
 
 # What is pyDrude?
-This repository records the *python* code I have written for my master-thesis project, as it standed at the date of graduation. Some minor polishing may be ahead, but further development is not planned as the project already migrated to *matlab* (i.e. it has been ported, extended and debugged in that language). Please notice that the code may hide some critical bug, as it contains old and unmantained source files. I advice to not use it and instead refer to the matlab version, available in a [new repository](https://github.com/Bellomia/OBCsDrudeTh).
+This repository records the *python* code I have written for my master-thesis project, as it standed at the date of graduation. Some minor polishing may be ahead, but further development is not planned as the project already migrated to *matlab* (i.e. it has been ported, extended and debugged in that language). Please notice that the code may hide some critical bug, as it contains old and unmantained source files. I advice to not use it and instead refer to the matlab version, available in a [new repository](https://github.com/bellomia/OBCsDRUDE).
 # What was the thesis about?
 **Title:**
 *"Modern approach to the Drude weight: metallic and insulating systems within Open Boundary Conditions"*
